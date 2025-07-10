@@ -18,7 +18,7 @@ This project is a C# Windows Forms desktop application that simulates a basic Ga
 - Windows Forms (WinForms)
 - SQL Server (Local Database)
   
-## ⚠️ Note
+## Note
 The actual database file is **not included**; this repository is intended to showcase my C# CRUD implementation and GUI design.
 
 <img width="1008" height="547" alt="image" src="https://github.com/user-attachments/assets/ed1c14dd-d673-4ebf-a04f-9bcdbb8964b0" />
