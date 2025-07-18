@@ -17,7 +17,8 @@ This project is a C# Windows Forms desktop application that simulates a basic Ga
 - C# (.NET Framework)
 - Windows Forms (WinForms)
 - SQL Server (Local Database)
-- Note: The actual database file is **not included**; this repository is intended to showcase my C# CRUD implementation and GUI design.
+
+The full database schema and sample data are included in the `SchemaAndData.sql` file. You can run this script in SQL Server Management Studio to recreate the database used in this project.
 
   
 
